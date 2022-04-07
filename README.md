@@ -7,7 +7,6 @@ Pesa App is a mock web app platform that can enable users to register and send m
 View pages on 
 - https://pesapp.vercel.app/
 - https://pesapp.netlify.app/
-- https://pesappkenya.herokuapp.com/
 
 ## How to use the Application
 Register and login. You start over with a net balance of USD 1,0000 given via an initial transaction. You can send to registered members(using their name or email). You can also deposit via a card/mpesa and view your recent transactions.
